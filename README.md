@@ -11,7 +11,7 @@ There are two ways to install AppLovinSDK
 Add following line to your `Cartfile`:
 
 ```
-binary "https://raw.githubusercontent.com/gumob/AppLovinSDK/master/Carthage/iOS/AppLovinSDK.json"
+binary "https://raw.githubusercontent.com/nagakurage/AppLovinSDK/master/Carthage/iOS/AppLovinSDK.json"
 ```
 
 
